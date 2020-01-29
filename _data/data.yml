@@ -32,9 +32,9 @@ education:
       details: |
       
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Backend Developer
+      time: Nov 2019 - Jan 2020
+      company: D-Shore Indonesia, Bandung
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -74,23 +74,33 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C# (.Net Framework & .Net Core 2.0)
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
+      - name: Javascript (Node.jS) & jQuery
+        level: 90%
+=
       - name: HTML5 & CSS
-        level: 95%
+        level: 90%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: PowerBI
         level: 60%
+
+      - name: Sonarqube
+        level: 70%
+        
+      - name: SQL Server
+        level: 90%
+      
+      - name: MySQL
+        level: 90%
+      
+      - name: PostgreSQL
+        level: 80%
+      
+      - name: Agile Workflow Processes
+        level: 80%
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

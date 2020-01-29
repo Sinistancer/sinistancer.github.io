@@ -36,39 +36,34 @@ experiences:
       time: Nov 2019 - Jan 2020
       company: D-Shore Indonesia, Bandung
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Used programming capabilities in C#, SQL Server and JavaScript and other libraries as needed.
+        - Developed backend and frontend parker and payment system, the name of project is Parkeergemak from Netherland.
+    - role: Backend Developer
+      time: Aug 2018 - Nov 2019
+      company: GITS Indonesia, Bandung
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Used programming capabilities in PHP, SQL, C# and JavaScript and other libraries as needed.
+        - Joined many projects such as Sinarmas Olivia, Toyota MYTMMIN, BKKBN and SGM
+        - Represented web team at meetings with executives and discussed project goals and milestones.
+        - Researched new technologies, software packages and hardware products for use in projects.
+        - Conceived and built optimized landing pages in HTML and CSS, including integration and cross-browser compatibility, to support marketing.
+        - Used various technologies, including to make code repairs and optimize corporate website.
+        - Planned and engineered RESTful web services to manipulate dynamic datasets.
+    - role: Junior Staff
+      time: Aug 2013 - Aug 2018
+      company: Bank bjb, Jawa Barat
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Developed some applications by applying experience in C#, php and javascript programming languages.
+        - Tested troubleshooting methods, devised innovative solutions, and documented resolutions for inclusion in knowledge base for support team use.
+        - Coordinated with end users to evaluate and improve software and hardware interfaces.
+        - Worked closely with other business analysts, development teams and infrastructure specialists to deliver high availability solutions for mission-critical applications.
+        - Contributed ideas and suggestions in team meetings with others and clients and delivered updates on deadlines, designs and enhancements.
+        - Gathered and defined customer requirements to develop clear specifications for creating well-organized project plans.
+        - Consulted with engineering team members to determine system loads and develop improvement plans.
+        - Developed applications on local environment using xmapp running on Windows or Linux operating system.
+        - Communicated technical information to non-technical staff by serving as Subject-Matter Expert.
+        - Collaborated with cross-functional development team members to analyze potential system solutions based on evolving client requirements.
+        - Evaluated project requirements and specifications and developed software applications that surpassed client expectations.
 
 skills:
     title: Skills &amp; Proficiency
@@ -79,6 +74,9 @@ skills:
 
       - name: Javascript (Node.jS) & jQuery
         level: 90%
+        
+      - name: PHP
+        level: 80%
         
       - name: HTML5 & CSS
         level: 90%

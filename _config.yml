@@ -5,11 +5,13 @@ title: Mohammad Iqbal Resume
 url: www.linkedin.com/in/sinistancer #'http://webjeda.com'
 baseurl: '' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: blue # blue turquoise green berry orange ceramic
+theme_skin: ceramic # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
-analytics: UA-98375828-1 #UA-83979019-1
+analytics: UA-83979019-1
+
+
 
 # Sass/SCSS
 sass:
@@ -17,6 +19,8 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Build settings
+compress-site: yes
+
 encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
   clippings: all

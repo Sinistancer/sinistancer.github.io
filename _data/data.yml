@@ -33,6 +33,15 @@ education:
       
 experiences:
     - role: Backend Developer
+      time: Jun 2020 - Current
+      company: Xtremax Indonesia, Bandung
+      details: |
+        - Used programming capabilities in C#, SQL Server and JavaScript and other libraries as needed.
+        - Develop quicksearch library integrated with elasticstack.
+        - Research OData for dynamical API Response.
+        - Deploy Elasticstach in Kubernetes.
+        - Develop Workflow UI using vue.js
+    - role: Backend Developer
       time: Nov 2019 - Jan 2020
       company: D-Shore Indonesia, Bandung
       details: |
@@ -69,22 +78,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# (.Net Framework & .Net Core 2.0)
+      - name: C# (.Net Framework & .Net Core 2.0 ~ 3.1)
         level: 80%
-
-      - name: Javascript (Node.jS) & jQuery
-        level: 90%
-        
-      - name: PHP
-        level: 80%
-        
-      - name: HTML5 & CSS
-        level: 90%
-
-      - name: PowerBI
+     
+      - name: Kubernetes
         level: 60%
 
-      - name: Sonarqube
+      - name: Docker
         level: 70%
         
       - name: SQL Server
@@ -98,6 +98,9 @@ skills:
       
       - name: Agile Workflow Processes
         level: 80%
+        
+      - name: Basic vue.js
+        level: 60%
       
 
 footer: >

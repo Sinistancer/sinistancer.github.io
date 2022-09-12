@@ -36,11 +36,11 @@ experiences:
       time: Jun 2020 - Current
       company: Xtremax Indonesia, Bandung
       details: |
+        - Implement microservices application using RabbitMQ and HttpClient
         - Used programming capabilities in C#, SQL Server and JavaScript and other libraries as needed.
         - Develop quicksearch library integrated with elasticstack.
         - Research OData for dynamical API Response.
         - Deploy Elasticstack in Kubernetes.
-        - Develop Workflow UI using vue.js.
     - role: Backend Developer
       time: Nov 2019 - Jan 2020
       company: D-Shore Indonesia, Bandung

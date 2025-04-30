@@ -28,7 +28,7 @@ sidebar:
 education:
     - degree: Bachelor's degree, Information Technology
       university: Catholic Parahyangan University (UNPAR)
-      time: 2007 - 2013
+      time: 2008 - 2013
       details: |
       
 experiences:
@@ -78,7 +78,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C# (.Net Framework & .Net Core 2.0 ~ 3.1)
+      - name: C# (.Net Framework & .Net Core 6)
         level: 80%
      
       - name: Kubernetes
@@ -86,12 +86,15 @@ skills:
 
       - name: Docker
         level: 70%
+         
+      - name: RabbitMQ
+        level: 60%
         
       - name: SQL Server
-        level: 90%
+        level: 80%
       
       - name: MySQL
-        level: 90%
+        level: 80%
       
       - name: PostgreSQL
         level: 80%
@@ -99,8 +102,8 @@ skills:
       - name: Agile Workflow Processes
         level: 80%
         
-      - name: Basic vue.js
-        level: 60%
+      - name: Basic next.ks
+        level: 40%
       
 
 footer: >
